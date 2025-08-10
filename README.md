@@ -1,4 +1,4 @@
-# SEG DASCore Tutorial
+# CTEMPS DASCore Tutorial
 
 A DASCore tutorial for CTEMPs 2025 workshop 
 
@@ -6,11 +6,13 @@ This repository provides a gentle introduction to DASCore, a Python library for 
 
 1. Use DASCore to index, query, and chunk a directory of DAS files.
 
-2. Create visualizations of DAS Patches.
+2. Create visualizations of DAS Patches in time and frequency domain.
    
-3. Perform filtering to improve signal to noise ratio of seismic events.
-   
-4. Calculate time-based statistics on rolling windows of continuous data.
+3. Perform filtering to improve signal to noise ratio of signal of interest.
+ 
+4. Low-pass filter and downsample the data.
+
+5. Calculate time-based statistics on rolling windows of continuous data.
 
 The introductory slides can be found [here](https://dasdae.github.io/presentations/ctepms_2024/ctemps_2024.html).
 
