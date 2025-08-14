@@ -2,7 +2,9 @@
 
 A DASCore tutorial for CTEMPs 2025 workshop 
 
-This repository provides a gentle introduction to DASCore, a Python library for distributed fiber optic sensing. The main first three jupyter notebooks are very similar to the [SEG 2024 tutorial](https://github.com/DASDAE/seg_tutorial/) with some updates, and the data exploratory analysis and processing in the 04_application jupyter notebook introduces new workflows. After completing the tutorial users should be able to:
+This repository provides a gentle introduction to DASCore, a Python library for distributed fiber optic sensing. The `01_patch` and `02_spool` jupyter notebooks are shorter version of the ones on [SEG 2024 tutorial](https://github.com/DASDAE/seg_tutorial/) with some updates, and the data exploratory analysis and processing in the `03_application` jupyter notebook introduces new processing workflows for analyzing active source signals.
+
+After completing the tutorial users should be able to:
 
 1. Use DASCore to index, query, and chunk a directory of DAS files.
 
