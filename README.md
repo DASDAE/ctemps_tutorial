@@ -2,7 +2,7 @@
 
 A DASCore tutorial for CTEMPs 2025 workshop 
 
-This repository provides a gentle introduction to DASCore, a Python library for distributed fiber optic sensing. The `01_patch` and `02_spool` jupyter notebooks are shorter version of the ones on [SEG 2024 tutorial](https://github.com/DASDAE/seg_tutorial/) with some updates, and the data exploratory analysis and processing in the `03_application` jupyter notebook introduces new processing workflows for analyzing active source signals.
+This repository provides a gentle introduction to DASCore, a Python library for distributed fiber optic sensing. The `01_patch` and `02_spool` jupyter notebooks are shorter version of the ones on [SEG 2024 tutorial](https://github.com/DASDAE/seg_tutorial/) with some updates, and the data exploratory analysis and processing in the `03_application` jupyter notebook introduces new processing workflows for analyzing active source signals. The solutions to the exercises are provided in the `04_solutions` notebook.
 
 After completing the tutorial users should be able to:
 
@@ -16,7 +16,7 @@ After completing the tutorial users should be able to:
 
 5. Calculate time-based statistics on rolling windows of continuous data.
 
-The introductory slides can be found [here](https://dasdae.github.io/presentations/ctepms_2024/ctemps_2024.html).
+The introductory slides can be found [here](https://dasdae.github.io/presentations/ctepms_2025/ctemps_2025.html).
 
 You will also find four notebooks in this repo containing examples and exercises.
 
